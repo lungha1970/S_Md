@@ -38,9 +38,9 @@
     "price":"After 49€/week",
     "isShowAdsAndInApp":true,
     "timeClose":5000,
-    "BASE64_PUBLISH_KEY":"BASE64_PUBLISH_KEY",
+    "BASE64_PUBLISH_KEY":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgKYCITk/UZHI1DguBrF1+Exfi8qHUlZQgO0O+BD/wvHZD8JPTsQ2lyZeQ3pPnVcURpt02VIEaX1S20sG06OohQxfCFRxZFXR+7dGeCcK/Ak6z0S2Pt3PTjz69Y+xGoc+SVH6skyWA3yMfLjstc+kxFR7n8zII59DI3fxvV8IpLAawMEAondmPrYyjSslu3nyqxcrjJtBz43UDc2ibgOHe8HG8VsE6M2pKj2Fsf93VNKAiEYq9P7hcI9MvZm266DEpxu8rGSYOkxNkSdbyMBQIrN6I2g7VMNL2l5gTtvUa5HTul9MDbzFqPgl4I38iYxYJ8q5RM2RHMqpaWtZXmq+2QIDAQAB",
     "countrys":["us","ca","uk"],
-    "SUBS":[]
+    "SUBS":["week"]
   },
   "apps": []
 }
