@@ -35,13 +35,15 @@
     "in_app":true,
     "in_app_close":true,
     "bg_inapp":"",
-    "price":"After 49,99€/week",
+    "price":"After 49,99€/week START 3-DAY FOR TRIAL FREE",
     "isShowAdsAndInApp":true,
     "timeClose":3000,
     "BASE64_PUBLISH_KEY":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgKYCITk/UZHI1DguBrF1+Exfi8qHUlZQgO0O+BD/wvHZD8JPTsQ2lyZeQ3pPnVcURpt02VIEaX1S20sG06OohQxfCFRxZFXR+7dGeCcK/Ak6z0S2Pt3PTjz69Y+xGoc+SVH6skyWA3yMfLjstc+kxFR7n8zII59DI3fxvV8IpLAawMEAondmPrYyjSslu3nyqxcrjJtBz43UDc2ibgOHe8HG8VsE6M2pKj2Fsf93VNKAiEYq9P7hcI9MvZm266DEpxu8rGSYOkxNkSdbyMBQIrN6I2g7VMNL2l5gTtvUa5HTul9MDbzFqPgl4I38iYxYJ8q5RM2RHMqpaWtZXmq+2QIDAQAB",
     "countrys":["us","ca","de","fr","au"],
     "SUBS":["week"],
-    "buyMain":true
+    "buyMain":true,
+    "block":true,
+    "des_inapp":"Payment will be charged to Google Account at confimation of purchse . Subsciption automatically renews unless auto-renew is turned off least 72- hours before the and of curent period. Accoount will be charged for renewal within 72- hours prior to the end off curent period after confirmation of  purchse . Subscription may be managed be the user and auto-renwal may be turned off by going  to the user's Account Settings after purchse . Any  unused portion of free trial period, if ofered , will be forfeited when the user purchse a Subscription to that.\n Thank  <3"
   },
   "apps": []
 }
